@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "705943684572",
+    "firebase_url": "https://terechat-c463c.firebaseio.com",
+    "project_id": "terechat-c463c",
+    "storage_bucket": "terechat-c463c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705943684572:android:e508a4ddb084e1c3",
+        "android_client_info": {
+          "package_name": "ee.igor.terechat.terechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705943684572-kon6rdbe3kl4m4mo26o3r10nr3of71n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ee.igor.terechat.terechat",
+            "certificate_hash": "af2f461ac066b86627bc1470409b94895513a64c"
+          }
+        },
+        {
+          "client_id": "705943684572-2gfekb68l7tumq641lq4a6ag74pg2ee8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJwELV9Lhr5xDx2kaWfGzO4X-I-JuFwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705943684572-2gfekb68l7tumq641lq4a6ag74pg2ee8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
